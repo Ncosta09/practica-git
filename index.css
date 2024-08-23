@@ -1,3 +1,11 @@
+ul {
+  display: flex;
+}
+li {
+  padding: 10px 50px;
+  background-color: gray;
+  margin: 0 10px;
+}
 main{
     background-color: blue;
     margin: 0 auto;
